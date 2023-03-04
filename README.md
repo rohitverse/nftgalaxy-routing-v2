@@ -14,7 +14,7 @@ PreRequisites
 
 ## Step 1 : Clone this Repo
 
-``` git clone https://github.com/rohitverse/nftgalaxy-v1.git ```
+``` git clone https://github.com/rohitverse/nftgalaxy-routing-v2.git```
 
 <img width="258" alt="image" src="https://user-images.githubusercontent.com/67726628/222906275-d2a5ac26-67fd-44e6-b7ed-309e1d5ec215.png">
 
