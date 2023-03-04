@@ -20,7 +20,7 @@ PreRequisites
 
 ## Step 2 : change directory to enter in the folder 
 
-```cd .\nftgalaxy-v1\```
+```cd .\nftgalaxy-routing-v2\```
 
 <img width="258" alt="image" src="https://user-images.githubusercontent.com/67726628/222906473-c26e6b1f-6eb9-467e-88f4-5bad46032f1f.png">
 
